@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_target.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/AB/H4R5Q45XKUVDH9EKWIKOGP.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/HO/RXW2ATW7Q5VLPIBL4047BP.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/VS/HTMC1JSLURQ00WBFQMJKM1.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/BL/ALHLE8Q0DXODTAQW0K7FRN.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Bullet.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/Target/GC_BP_target6.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MA/LH10WGNIRECDV8GFGNTNVF.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/MS/EMPZH9YO07T2747X62OCTI.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/7V/4KXSG24Q5AHND3BR7OQDA6.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/Target/SM_Target_SM_Target/GC_BP_target6.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/1V/XA46P2U8A90MMH9TB0VN5U.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/Target/SM_Target_SM_Target/GC_BP_target6_GC_BP_target6/GC_GC_BP_target6.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/Target/GC_GC_BP_target6.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/Target/SM_Target_Geomatry_collection.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/Target/SM_Target_GeomatryCollection.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/Target/SM_Target_GeometryCollection.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/36/0L6P1NOOBTDD725HDXM14O.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/9W/4FN7KLLO7N9VRVSXKNZ946.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/6Z/1Q59I70MUT8QMKQID35XB7.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/7E/Y1EBEVPU0ANGTM60Y5PLNN.uasset",
+				"D:/Epic Games/unreal/MyProject/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/GS/9K90HO0WZTTOWNLGDVIL6L.uasset"
+			]
+		}
+	]
+}
